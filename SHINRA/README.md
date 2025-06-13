@@ -1,4 +1,4 @@
-![SHINRA Banner](./SHINRA_Banner.png)
+https://github.com/Dev10-sys/Python-mini-projects-/blob/92f758803a366011404519cc428a39a65e7ccf71/SHINRA/IMG-20250613-WA0001.jpg
 ![Status](https://img.shields.io/badge/status-In_Progress-blue)
 ![License](https://img.shields.io/badge/license-Dev10--sys-green)
 – Personal AI Assistant + Financial Alert System 
