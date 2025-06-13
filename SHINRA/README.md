@@ -1,4 +1,7 @@
-SHINRA – Personal AI Assistant + Financial Alert System 
+![SHINRA Banner](./SHINRA_Banner.png)
+![Status](https://img.shields.io/badge/status-In_Progress-blue)
+![License](https://img.shields.io/badge/license-Dev10--sys-green)
+– Personal AI Assistant + Financial Alert System 
 
 
 
