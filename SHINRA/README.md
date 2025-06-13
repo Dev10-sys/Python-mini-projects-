@@ -1,84 +1,62 @@
-# SHINRA – AI-Powered Personal Assistant System
+# SHINRA – Personal AI Assistant + Financial Alert System
 
-**Developer:** Dev Tennyson  
-**Contact:** dev10.tennyson@gmail.com
-
----
-
-## 💡 Project Overview
-
-**SHINRA** is a custom-designed AI assistant system integrating voice control, facial recognition, hardware interaction, and real-time alerting — all tailored for high-frequency trading (HFT) environments and real-world automation tasks.
-
-This is not just a voice assistant. It is a scalable, modular system designed to learn, respond, and integrate into both personal and professional ecosystems.
+> **By Dev Tennyson – 12th Grade Visionary | AI + HFT + Automation**
 
 ---
 
-## 🚀 Features
+## 🧠 About the Project
 
-- 🎙️ Offline voice command system with natural language processing
-- 🧠 Memory recall and assistant behavior customization
-- 👁️ Facial recognition using OpenCV
-- 📈 Real-time alert system for financial data streams
-- ⚙️ Integration with Raspberry Pi and Arduino for physical interface (e.g. helmet)
-- 🖥️ Dark-themed control dashboard (React or Electron for future build)
+**SHINRA** is my personal futuristic project—a voice-enabled, modular AI assistant with real-world applications, especially in **High-Frequency Trading (HFT)**. Inspired by systems like JARVIS (but built from scratch, my way), it merges AI + Hardware + Financial Logic into one smart system.
+
+This is more than code—it's a personal mission I’m evolving semester by semester.
 
 ---
 
-## 🛠️ Technologies Used
+## 🧩 Features
 
-- **Python** – core logic, AI flow, OpenCV
-- **LangChain / GPT APIs** – future support for language-based task execution
-- **Speech Recognition (Coqui, pyttsx3)** – STT and TTS
-- **MongoDB / Local DB** – lightweight memory structure
-- **Arduino, Raspberry Pi** – hardware sensors and controller
-- **MQTT / Socket** – communication protocols
+### 🎓 Phase I – College JARVIS Build:
+- 🎙 Voice Command Assistant using Python
+- 🧑‍💻 Facial Recognition + Alert Lock
+- ⚙️ Sensor Integration (Tilt, Motion, Helmet Vibration)
+- 📢 Real-time system alerts (Visual & Audio)
+- 🖥 Dark-themed UI with Python frameworks
+- 🧾 Version-controlled learning documented on GitHub
 
----
-
-## 🎯 Use Cases
-
-1. **On-Campus College Assistant**
-   - Local file automation
-   - Voice-notes and reminders
-   - Facial login / unlock systems
-   - Helmet prototype with sensors (safety + alerts)
-
-2. **High-Frequency Trading Support**
-   - Market volatility alert system
-   - Real-time news/event notifier
-   - Smart dashboard with audio alerting
-   - Assistive monitoring system with broker API integration
+### 💼 Phase II – Finance + HFT Application:
+- 🔊 Voice-activated Financial Alerts
+- 📊 Real-time price movement trackers (BTC, NIFTY, etc.)
+- 😐 Emotion/stress detection using facial AI
+- 🖼 Dashboards for high-speed decisions
+- 🔌 Trading API integration plan (Zerodha, Alpaca, etc.)
 
 ---
 
-## 🗺️ Development Roadmap
+## 🧭 Project Roadmap
 
-### Year 1: Foundation
-- Python, Git, API basics, voice recognition
-- Terminal-based Jarvis (v0.1)
-
-### Year 2: Intelligence Layer
-- GPT integration, camera vision
-- Task memory + assistant logic
-
-### Year 3: Hardware + Dashboard
-- Helmet build (Arduino + Pi)
-- Alert dashboard + data pipelines
-
-### Year 4: HFT Application
-- Connect to broker API (e.g. Zerodha, Dhan)
-- SHINRA running as background agent in trading system
+| Phase      | Focus                           | Stack/Tech                        |
+|------------|----------------------------------|------------------------------------|
+| Phase I    | JARVIS core + sensors            | Python, Arduino, PyQt, OpenCV     |
+| Phase II   | HFT Alert Integration            | Python, APIs, NLP, Finance data   |
+| Phase III  | Mobile/Desktop SHINRA Interface  | PyInstaller / Flutter (future)    |
+| Phase IV   | Fully Autonomous Jarvis AI       | LLMs, RAG, Memory, Reinforcement  |
 
 ---
 
-## 📁 Folder Structure
+## 🧑‍💻 Who Am I?
 
-```bash
-SHINRA/
-├── README.md
-├── roadmap.pdf         # Visual future plan (to be added)
-├── src/
-│   ├── voice_assistant.py
-│   └── helmet_controller.ino
-├── assets/             # Diagrams, screenshots
-└── LICENSE
+> I'm **Dev Tennyson**, a 12th grade student with a dream to build something that feels alive, smart, and genuinely useful.  
+> SHINRA is a personal gift to my future self.  
+> I’m learning, coding, failing, and evolving — and that’s what this repo shows.
+
+---
+
+## 🚀 Live Goals
+- [ ] Build working voice control SHINRA v1
+- [ ] Complete helmet alert circuit
+- [ ] Link SHINRA to live finance API
+- [ ] Build my own HFT dashboard
+- [ ] Publish full roadmap PDF + diagram
+
+---
+
+## 📂 Folder Structure
