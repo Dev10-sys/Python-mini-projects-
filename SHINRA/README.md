@@ -59,4 +59,11 @@ This is more than code—it's a personal mission I’m evolving semester by seme
 
 ---
 
-## 📂 Folder Structure
+## 📂 Folder Structure 
+SHINRA/
+├── README.md
+├── src/
+│   ├── voice_assistant.py
+│   └── helmet_controller.ino
+├── assets/
+│   └── SHINRA_Roadmap_DevTennyson.pdf
